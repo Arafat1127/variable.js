@@ -54,3 +54,53 @@ var subTotal = first + second;
 // console.log(subTotal.toFixed(3));
 // console.log(subTotal.toFixed(1));
 console.log(parseFloat(subTotal.toFixed(1)));
+// else  {
+//     console.log('Amar sadh na mitilo');
+// }
+
+
+
+
+
+// if(danis < money){
+//     console.log('danis diye tea khamu');
+// }
+//  else if (batterBan < money){
+//     console.log('batterBan diye tea khamu');
+// }
+//  else if (tost < money){
+//     console.log('tost diye tea khamu');
+// }
+// else{
+//     console.log('batasa diye tea khamu');
+// }
+
+
+// var money = 100;
+// var danis = 150;
+// var batterBan = 110;
+// var tost = 118;
+// var wellPacked = true;
+
+
+
+// if (danis < money){
+//     if(wellPacked == true){
+//         console.log('moja re!!!');
+//     }
+//     else {
+//         console.log('na');
+//     }
+// }
+
+
+
+// else  {
+//     console.log('Amar sadh na mitilo');
+// }
+
+
+
+var tourDestination = ['cox bazar', 'nepal', 'srilanka', 'island']
+tourDestination[0] = 'Rajshahi'
+console.log(tourDestination);
